@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#bfbf00" id="svg_3" points="88.5,8.09100341796875 106.93499755859375,61.126007080078125 163.07199096679688,62.27001953125 118.32901000976562,96.19200134277344 134.5880126953125,149.93402099609375 88.5,117.86399841308594 42.4119873046875,149.93402099609375 58.67095947265625,96.19200134277344 13.927978515625,62.27001953125 70.06500244140625,61.126007080078125 88.5,8.09100341796875 106.93499755859375,61.126007080078125 " stroke="#666666" stroke-width="5"/>
+  <ellipse cx="86.5" cy="85.5" fill="#ffffaa" id="svg_6" rx="63" ry="63" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <text fill="#0000ff" font-family="Monospace" font-size="39" id="svg_1" stroke="#00007f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="87.5" xml:space="preserve" y="98.5">EBV</text>
+ </g>
+</svg>
